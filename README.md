@@ -3,7 +3,7 @@
 Linguagem de programação: Java (versão 16)
 
 IDE: Visual Studio Code
-### Requisitos:
+#### Requisitos:
 
 - O sistema deve receber o nome do grupo de afazeres e os afazeres; `VALIDAÇÃO DE DADOS`
 - O sistema deverá armazenar esses dados;
