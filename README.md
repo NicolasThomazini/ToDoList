@@ -1,18 +1,18 @@
-## Getting Started
+## Requisito de Software: To-Do List
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Linguagem de programação: Java (versão 16)
 
-## Folder Structure
+IDE: Visual Studio Code
+#### Requisitos:
 
-The workspace contains two folders by default, where:
+- O sistema deve receber o nome do grupo de afazeres e os afazeres; `VALIDAÇÃO DE DADOS`
+- O sistema deverá armazenar esses dados;
+- O sistema devera devolver uma lista com o nome do grupo de afazeres e os afazeres; `MOSTRAR LISTA`
+- O cliente deverá poder adicionar e retirar os itens de sua lista; `ADICIONAR E APAGAR`
+- O programa deve apresentar uma opção para pesquisar uma lista pelo nome do grupo de afazeres. `PESQUISAR`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+#### Design:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+A ideia do design foi desenvolvido com o Figma e o projeto pode ser acessado por meio o link: [Projeto do Figma](https://www.figma.com/file/HchD1ktF0q999Obf1J5AAf/ToDoList-Java?node-id=0%3A1)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+imagem preliminar: [ToDoList_AppDesign](https://imgur.com/a/S9CUYvw)
